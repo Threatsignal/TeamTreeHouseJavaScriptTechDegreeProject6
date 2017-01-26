@@ -3,8 +3,6 @@
  */
 
 /*
-eliminate junk npm packages
-make package.JSON file
 push to npm.
  */
 

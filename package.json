@@ -1,0 +1,34 @@
+{
+  "name": "team-tree-house-java-script-project-6",
+  "version": "0.0.1",
+  "description": "A content scraper for TeamTreeHouse javascript techDegree Project 6",
+  "main": "scraper.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "jsonexport": "^1.5.2",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scraper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Threatsignal/TeamTreeHouseJavaScriptTechDegreeProject6.git"
+  },
+  "keywords": [
+    "content",
+    "scraper",
+    "teamtreehouse",
+    "team",
+    "tree",
+    "house"
+  ],
+  "author": "Justin Schellenberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Threatsignal/TeamTreeHouseJavaScriptTechDegreeProject6/issues"
+  },
+  "homepage": "https://github.com/Threatsignal/TeamTreeHouseJavaScriptTechDegreeProject6#readme"
+}
