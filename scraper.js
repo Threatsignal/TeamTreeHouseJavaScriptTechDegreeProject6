@@ -1,10 +1,7 @@
 /**
  * Created by Justin on 1/23/2017.
  */
-
-/*
-push to npm.
- */
+'use strict';
 
 //Initializing constants & requesting packages.
 const fs = require('fs'),
