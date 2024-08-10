@@ -4,7 +4,7 @@
   "description": "A content scraper for TeamTreeHouse javascript techDegree Project 6",
   "main": "scraper.js",
   "dependencies": {
-    "cheerio": "^0.22.0",
+    "cheerio": "^1.0.0",
     "jsonexport": "^1.5.2",
     "request": "^2.79.0"
   },
